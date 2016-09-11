@@ -1,0 +1,9 @@
+#+TITLE: Introductory Graph Theory
+#+AUTHOR: Gary Chartrand
+
+* Introductory Graph Theory
+** Elementary Concepts of Graph Theory
+  - Theorem: For any (p,q) graphs G, the sum of the degrees of vertices of G is equal to twice the number of edges of G.
+  - Where the order p of graph G is the number of vertices and the size q of graph G is the number of edges.
+  - Let v equal any vertice.
+  - \\[ \sum_{i=1}^p deg\,v_i = 2q \\]
